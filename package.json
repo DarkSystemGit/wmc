@@ -1,0 +1,28 @@
+{
+  "name": "wmc",
+  "version": "1.0.0",
+  "description": "WebSocket Message Communcations Libary",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darksystemgit/wmc.git"
+  },
+  "keywords": [
+    "websockets",
+    "internet",
+    "web",
+    "communications"
+  ],
+  "author": "darksystem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darksystemgit/wmc/issues"
+  },
+  "homepage": "https://github.com/darksystemgit/wmc#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
